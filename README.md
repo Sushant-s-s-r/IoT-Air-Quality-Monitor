@@ -1,13 +1,4 @@
-## 🖼️ Project Demo
 
-> Add your hardware photo or circuit image here
-![Hardware Setup](images/hardware.jpg)
-
-> Add OLED display screenshot here
-![OLED Display](images/oled.jpg)
-
-> Add Blynk dashboard screenshot here
-![Blynk Dashboard](images/blynk_dashboard.jpg)
 > ## ⚡ Quick Start
 
 1. Clone this repo
